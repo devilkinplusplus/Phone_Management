@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\bin\Debug\PhoneManagement.exe.config
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\bin\Debug\PhoneManagement.exe
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\bin\Debug\PhoneManagement.pdb
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.Form1.resources
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.Properties.Resources.resources
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.exe
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.pdb
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.Form2.resources
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.Form3.resources
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.Form4.resources
+C:\Users\user\source\repos\PhoneManagement\PhoneManagement\obj\Debug\PhoneManagement.Form5.resources
